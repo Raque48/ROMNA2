@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "react-scripts build",
-    "start": "serve -s build"
+    "start": "npx serve -s build "
   },
   "keywords": [],
   "author": "",
